@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaRadio</string>
+    <string name="Seleccionar" translatable="false">Seleccionar Radio</string>
+    <string name="boton_play" translatable="false">Play</string>
+    <string name="boton_stop" translatable="false">Stop</string>
+    <string name="RadioSeleccionada" translatable="false">La Radio :</string>
+    <string name="UrldeRadio" translatable="false">Stream-URL :</string>
+</resources>
